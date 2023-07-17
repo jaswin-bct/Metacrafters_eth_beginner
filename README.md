@@ -1,5 +1,6 @@
 # Metacrafters_eth_beginner
-Token
+#create a new token
+Token:
 This Solidity smart contract implements a basic token called "Meta Jas" (MJ). The contract allows for token minting and burning, while keeping track of token balances for different addresses.
 
 Requirements
